@@ -1,4 +1,4 @@
-#Sun May 17 19:53:39 ECT 2020
+#Sun May 17 22:19:31 ECT 2020
 base.0=/Users/caguachisaca/Development/reactNativeFirebase/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

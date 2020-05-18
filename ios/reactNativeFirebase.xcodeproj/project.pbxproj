@@ -18,6 +18,7 @@
 		2DCD954D1E0B4F2C00145EB5 /* reactNativeFirebaseTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* reactNativeFirebaseTests.m */; };
 		56D7F0C0DAB224620F9EB6D1 /* libPods-reactNativeFirebase-reactNativeFirebaseTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A5511650D45DD458B0A7417C /* libPods-reactNativeFirebase-reactNativeFirebaseTests.a */; };
 		86FB5359F76BBFF62758A081 /* libPods-reactNativeFirebase-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BD70389DCBC1A66F55886CAD /* libPods-reactNativeFirebase-tvOS.a */; };
+		8F25CA112472277600D64F53 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8F25CA102472277600D64F53 /* GoogleService-Info.plist */; };
 		C656702F853D5D39D09B91E1 /* libPods-reactNativeFirebase.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AEC7A1FD6762461AD4BCA317 /* libPods-reactNativeFirebase.a */; };
 		E520D8D77152391B7203A7C2 /* libPods-reactNativeFirebase-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A0772C1B0828E790953392F4 /* libPods-reactNativeFirebase-tvOSTests.a */; };
 /* End PBXBuildFile section */
@@ -57,6 +58,7 @@
 		44204205A6F3748223FA0E82 /* Pods-reactNativeFirebase-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-reactNativeFirebase-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-reactNativeFirebase-tvOS/Pods-reactNativeFirebase-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		738F893AAF1F8D25F5FE0C6D /* Pods-reactNativeFirebase-reactNativeFirebaseTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-reactNativeFirebase-reactNativeFirebaseTests.release.xcconfig"; path = "Target Support Files/Pods-reactNativeFirebase-reactNativeFirebaseTests/Pods-reactNativeFirebase-reactNativeFirebaseTests.release.xcconfig"; sourceTree = "<group>"; };
 		8CD9FAC0198B87F63027E0A7 /* Pods-reactNativeFirebase-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-reactNativeFirebase-tvOS.release.xcconfig"; path = "Target Support Files/Pods-reactNativeFirebase-tvOS/Pods-reactNativeFirebase-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		8F25CA102472277600D64F53 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		A0772C1B0828E790953392F4 /* libPods-reactNativeFirebase-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-reactNativeFirebase-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5511650D45DD458B0A7417C /* libPods-reactNativeFirebase-reactNativeFirebaseTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-reactNativeFirebase-reactNativeFirebaseTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A91DF8D5B86EFB1620AA2090 /* Pods-reactNativeFirebase-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-reactNativeFirebase-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-reactNativeFirebase-tvOSTests/Pods-reactNativeFirebase-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 				13B07FB01A68108700A75B9A /* AppDelegate.m */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
 				13B07FB61A68108700A75B9A /* Info.plist */,
+				8F25CA102472277600D64F53 /* GoogleService-Info.plist */,
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
@@ -161,7 +164,6 @@
 				211E3B0D6461F80880C766AA /* Pods-reactNativeFirebase-tvOSTests.debug.xcconfig */,
 				A91DF8D5B86EFB1620AA2090 /* Pods-reactNativeFirebase-tvOSTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -231,6 +233,7 @@
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
 				6B73DFBD749BE809F3245F9E /* [CP-User] [RNFB] Core Configuration */,
+				3135AE20CBA081807F89B94E /* [CP-User] [RNFB] Crashlytics Configuration */,
 			);
 			buildRules = (
 			);
@@ -341,6 +344,7 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
+				8F25CA112472277600D64F53 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -411,6 +415,16 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
+		};
+		3135AE20CBA081807F89B94E /* [CP-User] [RNFB] Crashlytics Configuration */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "[CP-User] [RNFB] Crashlytics Configuration";
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "#!/usr/bin/env bash\n#\n# Copyright (c) 2016-present Invertase Limited & Contributors\n#\n# Licensed under the Apache License, Version 2.0 (the \"License\");\n# you may not use this library except in compliance with the License.\n# You may obtain a copy of the License at\n#\n#   http://www.apache.org/licenses/LICENSE-2.0\n#\n# Unless required by applicable law or agreed to in writing, software\n# distributed under the License is distributed on an \"AS IS\" BASIS,\n# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n# See the License for the specific language governing permissions and\n# limitations under the License.\n#\nset -e\n\nif [[ ${PODS_ROOT} ]]; then\n  echo \"info: Exec Fabric Run from Pods\"\n  \"${PODS_ROOT}/Fabric/run\"\nelse\n  echo \"info: Exec Fabric Run from framework\"\n  \"${PROJECT_DIR}/Fabric.framework/run\"\nfi\n";
 		};
 		6B73DFBD749BE809F3245F9E /* [CP-User] [RNFB] Core Configuration */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -653,7 +667,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.reactnativefirebase;
 				PRODUCT_NAME = reactNativeFirebase;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -675,7 +689,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.reactnativefirebase;
 				PRODUCT_NAME = reactNativeFirebase;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";

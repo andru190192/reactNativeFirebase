@@ -10,7 +10,10 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "@react-native-firebase/app": "^7.0.1",
+    "@react-native-firebase/app": "7.0.1",
+    "@react-native-firebase/analytics": "7.0.1",
+    "@react-native-firebase/crashlytics": "7.0.1",
+    "@react-native-firebase/perf": "7.0.1",
     "react": "16.11.0",
     "react-native": "0.62.2"
   },

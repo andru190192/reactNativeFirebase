@@ -8,6 +8,9 @@ MERGED from /Users/caguachisaca/Development/reactNativeFirebase/android/app/src/
 MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/59a47d24ac9c4f27c80384cc97363988/jetified-flipper-0.33.1/AndroidManifest.xml:8:1-18:12
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/79cf45dff789eeca895474686f731158/flipper-network-plugin-0.33.1/AndroidManifest.xml:8:1-15:12
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/c522af7c6be754c58e463fea83cce8ce/flipper-fresco-plugin-0.33.1/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-firebase_analytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:react-native-firebase_crashlytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-25:12
+MERGED from [:react-native-firebase_perf] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/perf/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-firebase_app] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.62.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/929ef39fb9a2e39079f6e12661c2094e/jetified-react-native-0.62.2/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/a1d64627529d8d421c0b27e7fdd4a3e1/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -25,6 +28,7 @@ MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/caguachisac
 MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/b48f4ca811610c1d9593d1c0715cd3b3/imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/975f8c03d68f11783cf6231ebd67bc88/soloader-0.8.2/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/fac11e4053b0ee70596ac6ed52e12b3e/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-perf:19.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/4483ab97d1b2d8e64544eec37a536d43/firebase-perf-19.0.2/AndroidManifest.xml:17:1-40:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/3435358544616ff9bf6ee201914856e7/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/10baf3b9a8d3bddb052061d481383ffd/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/c1773e1998cf3a2431c84f35141c1764/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
@@ -34,10 +38,14 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] /Users
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:17:1-40:12
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/6baa2f89bd3a1a6e89113e0b5d8f21bf/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:17:1-27:12
 MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/d9c0a9ddf3dc101217916d883c7465a7/play-services-measurement-base-17.2.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-config:19.0.3] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/b3f8acb1f22f2c4dd6fd26758f13d907/firebase-config-19.0.3/AndroidManifest.xml:17:1-38:12
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:17:1-47:12
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/aa051279bcd1a3ccce02e7f639eb644b/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-abt:19.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/7fa0b1dcbea51e09ebfe9d364bd03d77/firebase-abt-19.0.0/AndroidManifest.xml:2:1-19:12
 MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/799d58ebbb11af93a1f8281b397c179b/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/935eb07c8901eb6504b7913381052582/firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/149d790153de0e506cb17c1566657a9e/play-services-clearcut-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/1828e52bf2cab0b8e29316c2238479c3/play-services-phenotype-17.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/7f76f57911a135d7dd2e1ba276f4dc40/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/4b84a4234c1fa000d417bdc6d89832cf/firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
@@ -65,8 +73,14 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/caguachisaca/.g
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/fb532574b956b34bc2dab12de6502519/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/ed784e9cc6d9c22090eb9cb003e47107/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/490196c73d7d355edf6256c5fa5d120c/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/abb85c395fcbc17fbf3f433661534f79/jetified-crashlytics-2.10.1/AndroidManifest.xml:2:1-26:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-ndk:2.1.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/fb46758ac10d62888a21e754abb2793a/crashlytics-ndk-2.1.1/AndroidManifest.xml:23:1-40:12
 MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/64b0580bbd835378fb7d8f2c79ceda85/annotation-0.8.2/AndroidManifest.xml:2:1-13:12
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/237b128419fa525457774bf13da23662/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/8aea3184d2a15cff42ef761d629af22a/crashlytics-core-2.7.0/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/36635be3cca1be4d47270127fd5a73a7/beta-1.2.10/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/540fe7ce40f0fbfeac42a54bf059674f/jetified-answers-1.4.7/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/bab6e7eeeebef51e35ed95ea7519da22/fabric-1.4.8/AndroidManifest.xml:22:1-33:12
 INJECTED from /Users/caguachisaca/Development/reactNativeFirebase/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 INJECTED from /Users/caguachisaca/Development/reactNativeFirebase/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 INJECTED from /Users/caguachisaca/Development/reactNativeFirebase/android/app/src/debug/AndroidManifest.xml:2:1-8:12
@@ -91,6 +105,10 @@ uses-permission#android.permission.INTERNET
 ADDED from /Users/caguachisaca/Development/reactNativeFirebase/android/app/src/main/AndroidManifest.xml:4:5-67
 MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/59a47d24ac9c4f27c80384cc97363988/jetified-flipper-0.33.1/AndroidManifest.xml:15:5-67
 MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/59a47d24ac9c4f27c80384cc97363988/jetified-flipper-0.33.1/AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase_analytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [:react-native-firebase_analytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-perf:19.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/4483ab97d1b2d8e64544eec37a536d43/firebase-perf-19.0.2/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-perf:19.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/4483ab97d1b2d8e64544eec37a536d43/firebase-perf-19.0.2/AndroidManifest.xml:22:5-67
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:22:5-67
@@ -99,14 +117,28 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /User
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/6baa2f89bd3a1a6e89113e0b5d8f21bf/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/6baa2f89bd3a1a6e89113e0b5d8f21bf/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-config:19.0.3] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/b3f8acb1f22f2c4dd6fd26758f13d907/firebase-config-19.0.3/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-config:19.0.3] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/b3f8acb1f22f2c4dd6fd26758f13d907/firebase-config-19.0.3/AndroidManifest.xml:26:5-67
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:23:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/abb85c395fcbc17fbf3f433661534f79/jetified-crashlytics-2.10.1/AndroidManifest.xml:16:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/abb85c395fcbc17fbf3f433661534f79/jetified-crashlytics-2.10.1/AndroidManifest.xml:16:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/8aea3184d2a15cff42ef761d629af22a/crashlytics-core-2.7.0/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/8aea3184d2a15cff42ef761d629af22a/crashlytics-core-2.7.0/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/36635be3cca1be4d47270127fd5a73a7/beta-1.2.10/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/36635be3cca1be4d47270127fd5a73a7/beta-1.2.10/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/540fe7ce40f0fbfeac42a54bf059674f/jetified-answers-1.4.7/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/540fe7ce40f0fbfeac42a54bf059674f/jetified-answers-1.4.7/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/bab6e7eeeebef51e35ed95ea7519da22/fabric-1.4.8/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/bab6e7eeeebef51e35ed95ea7519da22/fabric-1.4.8/AndroidManifest.xml:29:5-67
 	android:name
 		ADDED from /Users/caguachisaca/Development/reactNativeFirebase/android/app/src/main/AndroidManifest.xml:4:22-64
 application
 ADDED from /Users/caguachisaca/Development/reactNativeFirebase/android/app/src/main/AndroidManifest.xml:6:5-25:19
 MERGED from /Users/caguachisaca/Development/reactNativeFirebase/android/app/src/main/AndroidManifest.xml:6:5-25:19
 MERGED from /Users/caguachisaca/Development/reactNativeFirebase/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [:react-native-firebase_crashlytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-23:19
+MERGED from [:react-native-firebase_crashlytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-23:19
 MERGED from [com.facebook.react:react-native:0.62.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/929ef39fb9a2e39079f6e12661c2094e/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.react:react-native:0.62.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/929ef39fb9a2e39079f6e12661c2094e/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
 MERGED from [com.google.firebase:firebase-core:17.2.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/b6e4cedae0e9a84481c7f76df6f53158/firebase-core-17.2.1/AndroidManifest.xml:7:5-20
@@ -115,6 +147,8 @@ MERGED from [com.google.firebase:firebase-analytics:17.2.2] /Users/caguachisaca/
 MERGED from [com.google.firebase:firebase-analytics:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/682ef7e83c71e0ad469d6d221e784a94/firebase-analytics-17.2.2/AndroidManifest.xml:7:5-20
 MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/975f8c03d68f11783cf6231ebd67bc88/soloader-0.8.2/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/975f8c03d68f11783cf6231ebd67bc88/soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-perf:19.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/4483ab97d1b2d8e64544eec37a536d43/firebase-perf-19.0.2/AndroidManifest.xml:24:5-38:19
+MERGED from [com.google.firebase:firebase-perf:19.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/4483ab97d1b2d8e64544eec37a536d43/firebase-perf-19.0.2/AndroidManifest.xml:24:5-38:19
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:28:5-53:19
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:28:5-53:19
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:26:5-34:19
@@ -125,14 +159,22 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /User
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:28:5-38:19
 MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/d9c0a9ddf3dc101217916d883c7465a7/play-services-measurement-base-17.2.2/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/d9c0a9ddf3dc101217916d883c7465a7/play-services-measurement-base-17.2.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-config:19.0.3] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/b3f8acb1f22f2c4dd6fd26758f13d907/firebase-config-19.0.3/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-config:19.0.3] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/b3f8acb1f22f2c4dd6fd26758f13d907/firebase-config-19.0.3/AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:28:5-45:19
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:28:5-45:19
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/aa051279bcd1a3ccce02e7f639eb644b/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/aa051279bcd1a3ccce02e7f639eb644b/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-abt:19.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/7fa0b1dcbea51e09ebfe9d364bd03d77/firebase-abt-19.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-abt:19.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/7fa0b1dcbea51e09ebfe9d364bd03d77/firebase-abt-19.0.0/AndroidManifest.xml:11:5-17:19
 MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/799d58ebbb11af93a1f8281b397c179b/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
 MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/799d58ebbb11af93a1f8281b397c179b/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/935eb07c8901eb6504b7913381052582/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/935eb07c8901eb6504b7913381052582/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/149d790153de0e506cb17c1566657a9e/play-services-clearcut-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/149d790153de0e506cb17c1566657a9e/play-services-clearcut-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/1828e52bf2cab0b8e29316c2238479c3/play-services-phenotype-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/1828e52bf2cab0b8e29316c2238479c3/play-services-phenotype-17.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/7f76f57911a135d7dd2e1ba276f4dc40/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
@@ -147,8 +189,20 @@ MERGED from [androidx.core:core:1.1.0] /Users/caguachisaca/.gradle/caches/transf
 MERGED from [androidx.core:core:1.1.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/51c60a74c89e63786feb7a72e94c376c/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/0bb3ac5ce31ceb07b5b4b2ba1186b843/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/0bb3ac5ce31ceb07b5b4b2ba1186b843/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/abb85c395fcbc17fbf3f433661534f79/jetified-crashlytics-2.10.1/AndroidManifest.xml:18:5-24:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/abb85c395fcbc17fbf3f433661534f79/jetified-crashlytics-2.10.1/AndroidManifest.xml:18:5-24:19
+MERGED from [com.crashlytics.sdk.android:crashlytics-ndk:2.1.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/fb46758ac10d62888a21e754abb2793a/crashlytics-ndk-2.1.1/AndroidManifest.xml:34:5-38:19
+MERGED from [com.crashlytics.sdk.android:crashlytics-ndk:2.1.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/fb46758ac10d62888a21e754abb2793a/crashlytics-ndk-2.1.1/AndroidManifest.xml:34:5-38:19
 MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/64b0580bbd835378fb7d8f2c79ceda85/annotation-0.8.2/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/64b0580bbd835378fb7d8f2c79ceda85/annotation-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/8aea3184d2a15cff42ef761d629af22a/crashlytics-core-2.7.0/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/8aea3184d2a15cff42ef761d629af22a/crashlytics-core-2.7.0/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/36635be3cca1be4d47270127fd5a73a7/beta-1.2.10/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/36635be3cca1be4d47270127fd5a73a7/beta-1.2.10/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/540fe7ce40f0fbfeac42a54bf059674f/jetified-answers-1.4.7/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/540fe7ce40f0fbfeac42a54bf059674f/jetified-answers-1.4.7/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/bab6e7eeeebef51e35ed95ea7519da22/fabric-1.4.8/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/bab6e7eeeebef51e35ed95ea7519da22/fabric-1.4.8/AndroidManifest.xml:31:5-20
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/51c60a74c89e63786feb7a72e94c376c/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:label
@@ -211,6 +265,12 @@ MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/caguachi
 MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/79cf45dff789eeca895474686f731158/flipper-network-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/c522af7c6be754c58e463fea83cce8ce/flipper-fresco-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
 MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/c522af7c6be754c58e463fea83cce8ce/flipper-fresco-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-firebase_analytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_analytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_crashlytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_crashlytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_perf] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/perf/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-firebase_perf] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/perf/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-firebase_app] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-firebase_app] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/app/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.62.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/929ef39fb9a2e39079f6e12661c2094e/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
@@ -245,6 +305,8 @@ MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/caguachisaca/.gradle/c
 MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/975f8c03d68f11783cf6231ebd67bc88/soloader-0.8.2/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/fac11e4053b0ee70596ac6ed52e12b3e/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/fac11e4053b0ee70596ac6ed52e12b3e/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-perf:19.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/4483ab97d1b2d8e64544eec37a536d43/firebase-perf-19.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-perf:19.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/4483ab97d1b2d8e64544eec37a536d43/firebase-perf-19.0.2/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/3435358544616ff9bf6ee201914856e7/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/3435358544616ff9bf6ee201914856e7/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/10baf3b9a8d3bddb052061d481383ffd/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -263,14 +325,22 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /U
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/6baa2f89bd3a1a6e89113e0b5d8f21bf/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/d9c0a9ddf3dc101217916d883c7465a7/play-services-measurement-base-17.2.2/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/d9c0a9ddf3dc101217916d883c7465a7/play-services-measurement-base-17.2.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-config:19.0.3] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/b3f8acb1f22f2c4dd6fd26758f13d907/firebase-config-19.0.3/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.firebase:firebase-config:19.0.3] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/b3f8acb1f22f2c4dd6fd26758f13d907/firebase-config-19.0.3/AndroidManifest.xml:21:5-23:41
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/aa051279bcd1a3ccce02e7f639eb644b/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/aa051279bcd1a3ccce02e7f639eb644b/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-abt:19.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/7fa0b1dcbea51e09ebfe9d364bd03d77/firebase-abt-19.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-abt:19.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/7fa0b1dcbea51e09ebfe9d364bd03d77/firebase-abt-19.0.0/AndroidManifest.xml:6:5-8:41
 MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/799d58ebbb11af93a1f8281b397c179b/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/799d58ebbb11af93a1f8281b397c179b/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/935eb07c8901eb6504b7913381052582/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/935eb07c8901eb6504b7913381052582/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/149d790153de0e506cb17c1566657a9e/play-services-clearcut-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/149d790153de0e506cb17c1566657a9e/play-services-clearcut-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/1828e52bf2cab0b8e29316c2238479c3/play-services-phenotype-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/1828e52bf2cab0b8e29316c2238479c3/play-services-phenotype-17.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/a8808dfeda94c47fb6332865b0619b8e/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/7f76f57911a135d7dd2e1ba276f4dc40/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
@@ -325,12 +395,26 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/caguachisaca/.gradle/
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/ed784e9cc6d9c22090eb9cb003e47107/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/490196c73d7d355edf6256c5fa5d120c/multidex-2.0.0/AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/490196c73d7d355edf6256c5fa5d120c/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/abb85c395fcbc17fbf3f433661534f79/jetified-crashlytics-2.10.1/AndroidManifest.xml:12:5-14:63
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/abb85c395fcbc17fbf3f433661534f79/jetified-crashlytics-2.10.1/AndroidManifest.xml:12:5-14:63
+MERGED from [com.crashlytics.sdk.android:crashlytics-ndk:2.1.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/fb46758ac10d62888a21e754abb2793a/crashlytics-ndk-2.1.1/AndroidManifest.xml:28:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics-ndk:2.1.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/fb46758ac10d62888a21e754abb2793a/crashlytics-ndk-2.1.1/AndroidManifest.xml:28:5-44
 MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/64b0580bbd835378fb7d8f2c79ceda85/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/64b0580bbd835378fb7d8f2c79ceda85/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/237b128419fa525457774bf13da23662/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/237b128419fa525457774bf13da23662/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/8aea3184d2a15cff42ef761d629af22a/crashlytics-core-2.7.0/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.7.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/8aea3184d2a15cff42ef761d629af22a/crashlytics-core-2.7.0/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/36635be3cca1be4d47270127fd5a73a7/beta-1.2.10/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/36635be3cca1be4d47270127fd5a73a7/beta-1.2.10/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/540fe7ce40f0fbfeac42a54bf059674f/jetified-answers-1.4.7/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.7] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/540fe7ce40f0fbfeac42a54bf059674f/jetified-answers-1.4.7/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/bab6e7eeeebef51e35ed95ea7519da22/fabric-1.4.8/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.8] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/bab6e7eeeebef51e35ed95ea7519da22/fabric-1.4.8/AndroidManifest.xml:27:5-43
 INJECTED from /Users/caguachisaca/Development/reactNativeFirebase/android/app/src/debug/AndroidManifest.xml
 INJECTED from /Users/caguachisaca/Development/reactNativeFirebase/android/app/src/debug/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/abb85c395fcbc17fbf3f433661534f79/jetified-crashlytics-2.10.1/AndroidManifest.xml:14:9-60
 	android:targetSdkVersion
 		INJECTED from /Users/caguachisaca/Development/reactNativeFirebase/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/caguachisaca/Development/reactNativeFirebase/android/app/src/debug/AndroidManifest.xml
@@ -346,19 +430,25 @@ ADDED from [com.facebook.flipper:flipper:0.33.1] /Users/caguachisaca/.gradle/cac
 	android:name
 		ADDED from [com.facebook.flipper:flipper:0.33.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/59a47d24ac9c4f27c80384cc97363988/jetified-flipper-0.33.1/AndroidManifest.xml:16:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:24:5-79
+ADDED from [:react-native-firebase_analytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/6baa2f89bd3a1a6e89113e0b5d8f21bf/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/6baa2f89bd3a1a6e89113e0b5d8f21bf/play-services-measurement-sdk-api-17.2.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-config:19.0.3] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/b3f8acb1f22f2c4dd6fd26758f13d907/firebase-config-19.0.3/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-config:19.0.3] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/b3f8acb1f22f2c4dd6fd26758f13d907/firebase-config-19.0.3/AndroidManifest.xml:25:5-79
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:24:22-76
+		ADDED from [:react-native-firebase_analytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-76
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:25:5-68
+ADDED from [:react-native-firebase_analytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:24:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:24:5-68
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:25:5-68
@@ -368,7 +458,59 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] /U
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:24:5-68
 MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:24:5-68
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:25:22-65
+		ADDED from [:react-native-firebase_analytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/analytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-65
+meta-data#firebase_crashlytics_collection_enabled
+ADDED from [:react-native-firebase_crashlytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:9-16:37
+	android:value
+		ADDED from [:react-native-firebase_crashlytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-34
+	android:name
+		ADDED from [:react-native-firebase_crashlytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-67
+provider#io.invertase.firebase.crashlytics.ReactNativeFirebaseCrashlyticsInitProvider
+ADDED from [:react-native-firebase_crashlytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:9-22:38
+	android:authorities
+		ADDED from [:react-native-firebase_crashlytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-94
+	android:exported
+		ADDED from [:react-native-firebase_crashlytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:21:13-37
+	android:initOrder
+		ADDED from [:react-native-firebase_crashlytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:13-35
+	android:name
+		ADDED from [:react-native-firebase_crashlytics] /Users/caguachisaca/Development/reactNativeFirebase/node_modules/@react-native-firebase/crashlytics/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-104
+provider#com.google.firebase.perf.provider.FirebasePerfProvider
+ADDED from [com.google.firebase:firebase-perf:19.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/4483ab97d1b2d8e64544eec37a536d43/firebase-perf-19.0.2/AndroidManifest.xml:25:9-29:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-perf:19.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/4483ab97d1b2d8e64544eec37a536d43/firebase-perf-19.0.2/AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-perf:19.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/4483ab97d1b2d8e64544eec37a536d43/firebase-perf-19.0.2/AndroidManifest.xml:28:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-perf:19.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/4483ab97d1b2d8e64544eec37a536d43/firebase-perf-19.0.2/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-perf:19.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/4483ab97d1b2d8e64544eec37a536d43/firebase-perf-19.0.2/AndroidManifest.xml:26:13-82
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-perf:19.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/4483ab97d1b2d8e64544eec37a536d43/firebase-perf-19.0.2/AndroidManifest.xml:31:9-37:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-config:19.0.3] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/b3f8acb1f22f2c4dd6fd26758f13d907/firebase-config-19.0.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-config:19.0.3] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/b3f8acb1f22f2c4dd6fd26758f13d907/firebase-config-19.0.3/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-abt:19.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/7fa0b1dcbea51e09ebfe9d364bd03d77/firebase-abt-19.0.0/AndroidManifest.xml:12:9-16:19
+MERGED from [com.google.firebase:firebase-abt:19.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/7fa0b1dcbea51e09ebfe9d364bd03d77/firebase-abt-19.0.0/AndroidManifest.xml:12:9-16:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/799d58ebbb11af93a1f8281b397c179b/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/799d58ebbb11af93a1f8281b397c179b/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-perf:19.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/4483ab97d1b2d8e64544eec37a536d43/firebase-perf-19.0.2/AndroidManifest.xml:33:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/799d58ebbb11af93a1f8281b397c179b/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/799d58ebbb11af93a1f8281b397c179b/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-perf:19.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/4483ab97d1b2d8e64544eec37a536d43/firebase-perf-19.0.2/AndroidManifest.xml:32:13-84
+meta-data#com.google.firebase.components:com.google.firebase.perf.FirebasePerfRegistrar
+ADDED from [com.google.firebase:firebase-perf:19.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/4483ab97d1b2d8e64544eec37a536d43/firebase-perf-19.0.2/AndroidManifest.xml:34:13-36:85
+	android:value
+		ADDED from [com.google.firebase:firebase-perf:19.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/4483ab97d1b2d8e64544eec37a536d43/firebase-perf-19.0.2/AndroidManifest.xml:36:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-perf:19.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/4483ab97d1b2d8e64544eec37a536d43/firebase-perf-19.0.2/AndroidManifest.xml:35:17-109
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
 ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:26:5-110
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/93d629b6b0406f3c9d55b22ba94861e0/play-services-measurement-impl-17.2.2/AndroidManifest.xml:26:5-110
@@ -419,26 +561,18 @@ ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/cagu
 		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:52:13-69
 	android:name
 		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/1a0d786327d5a1f0b54b49ca24576ae2/play-services-measurement-17.2.2/AndroidManifest.xml:49:13-87
-service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-iid:20.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/799d58ebbb11af93a1f8281b397c179b/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
-MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/799d58ebbb11af93a1f8281b397c179b/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
-	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:29:13-37
-	tools:targetApi
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/799d58ebbb11af93a1f8281b397c179b/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
-	android:directBootAware
-		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/799d58ebbb11af93a1f8281b397c179b/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:28:13-84
 meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
 ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:30:13-32:85
 	android:value
 		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:32:17-82
 	android:name
 		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/f214fc06310ca82def0b330804eead52/play-services-measurement-api-17.2.2/AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.remoteconfig.RemoteConfigRegistrar
+ADDED from [com.google.firebase:firebase-config:19.0.3] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/b3f8acb1f22f2c4dd6fd26758f13d907/firebase-config-19.0.3/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-config:19.0.3] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/b3f8acb1f22f2c4dd6fd26758f13d907/firebase-config-19.0.3/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-config:19.0.3] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/b3f8acb1f22f2c4dd6fd26758f13d907/firebase-config-19.0.3/AndroidManifest.xml:33:17-117
 uses-permission#com.google.android.c2dm.permission.RECEIVE
 ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:26:5-82
 	android:name
@@ -463,6 +597,12 @@ action#com.google.android.c2dm.intent.RECEIVE
 ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:42:17-81
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:20.0.2] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/92a670bf51bebe39724a746b92b732bf/firebase-iid-20.0.2/AndroidManifest.xml:42:25-78
+meta-data#com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar
+ADDED from [com.google.firebase:firebase-abt:19.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/7fa0b1dcbea51e09ebfe9d364bd03d77/firebase-abt-19.0.0/AndroidManifest.xml:13:13-15:85
+	android:value
+		ADDED from [com.google.firebase:firebase-abt:19.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/7fa0b1dcbea51e09ebfe9d364bd03d77/firebase-abt-19.0.0/AndroidManifest.xml:15:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-abt:19.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/7fa0b1dcbea51e09ebfe9d364bd03d77/firebase-abt-19.0.0/AndroidManifest.xml:14:17-109
 provider#com.google.firebase.provider.FirebaseInitProvider
 ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/799d58ebbb11af93a1f8281b397c179b/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
 	android:authorities
@@ -487,3 +627,19 @@ ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/caguach
 		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/b59fddd68c9e6b27b24eae976d0fb1a0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/b59fddd68c9e6b27b24eae976d0fb1a0/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/abb85c395fcbc17fbf3f433661534f79/jetified-crashlytics-2.10.1/AndroidManifest.xml:19:9-23:38
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/abb85c395fcbc17fbf3f433661534f79/jetified-crashlytics-2.10.1/AndroidManifest.xml:21:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/abb85c395fcbc17fbf3f433661534f79/jetified-crashlytics-2.10.1/AndroidManifest.xml:22:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/abb85c395fcbc17fbf3f433661534f79/jetified-crashlytics-2.10.1/AndroidManifest.xml:23:13-35
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.10.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/abb85c395fcbc17fbf3f433661534f79/jetified-crashlytics-2.10.1/AndroidManifest.xml:20:13-75
+meta-data#firebase_crashlytics_ndk_enabled
+ADDED from [com.crashlytics.sdk.android:crashlytics-ndk:2.1.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/fb46758ac10d62888a21e754abb2793a/crashlytics-ndk-2.1.1/AndroidManifest.xml:35:9-37:36
+	android:value
+		ADDED from [com.crashlytics.sdk.android:crashlytics-ndk:2.1.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/fb46758ac10d62888a21e754abb2793a/crashlytics-ndk-2.1.1/AndroidManifest.xml:37:13-33
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics-ndk:2.1.1] /Users/caguachisaca/.gradle/caches/transforms-2/files-2.1/fb46758ac10d62888a21e754abb2793a/crashlytics-ndk-2.1.1/AndroidManifest.xml:36:13-60

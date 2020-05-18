@@ -13,6 +13,12 @@ import java.util.ArrayList;
 
 // @react-native-firebase/app
 import io.invertase.firebase.app.ReactNativeFirebaseAppPackage;
+// @react-native-firebase/analytics
+import io.invertase.firebase.analytics.ReactNativeFirebaseAnalyticsPackage;
+// @react-native-firebase/crashlytics
+import io.invertase.firebase.crashlytics.ReactNativeFirebaseCrashlyticsPackage;
+// @react-native-firebase/perf
+import io.invertase.firebase.perf.ReactNativeFirebasePerfPackage;
 
 public class PackageList {
   private Application application;
@@ -58,7 +64,10 @@ public class PackageList {
   public ArrayList<ReactPackage> getPackages() {
     return new ArrayList<>(Arrays.<ReactPackage>asList(
       new MainReactPackage(mConfig),
-      new ReactNativeFirebaseAppPackage()
+      new ReactNativeFirebaseAppPackage(),
+      new ReactNativeFirebaseAnalyticsPackage(),
+      new ReactNativeFirebaseCrashlyticsPackage(),
+      new ReactNativeFirebasePerfPackage()
     ));
   }
 }
