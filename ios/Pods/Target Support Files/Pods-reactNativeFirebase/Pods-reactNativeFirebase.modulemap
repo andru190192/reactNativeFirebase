@@ -1,0 +1,6 @@
+module Pods_reactNativeFirebase {
+  umbrella header "Pods-reactNativeFirebase-umbrella.h"
+
+  export *
+  module * { export * }
+}
