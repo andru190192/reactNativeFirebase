@@ -49,3 +49,6 @@ buck-out/
 android/app/release
 coverage
 package-lock.json
+
+android/app/build/
+android/.gradle
