@@ -14,17 +14,49 @@ import {
   View,
   Text,
   StatusBar,
+    TouchableOpacity
 } from 'react-native';
 
 import {
   Header,
-  LearnMoreLinks,
   Colors,
-  DebugInstructions,
-  ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
-const App: () => React$Node = () => {
+const VISION_API_KEY = 'AIzaSyC1gdfBWhu1K4etrIQT6C1f-Iz9JBElR-Q';
+
+const App = () => {
+
+  async function processImage() {
+    let body = JSON.stringify({
+      requests: [
+        {
+          features: [{ type: 'LABEL_DETECTION' }],
+          image: {
+            source: {
+              imageUri: 'https://placeralplato.com/files/2015/11/Pan-para-hot-dogs-640x480.jpg'
+            }
+          }
+        }
+      ]
+    })
+    const response = await fetch(
+        `https://vision.googleapis.com/v1/images:annotate?key=${VISION_API_KEY}`,
+        {
+          headers: {
+            Accept: 'application/json',
+            'Content-Type': 'application/json'
+          },
+          method: 'POST',
+          body: body
+        }
+    )
+    const responseJson = await response.json();
+    console.log('responseJson', responseJson);
+    const getLabel = responseJson.responses[0].labelAnnotations.map(
+        obj => console.log(obj.description)
+    )
+  }
+
   return (
     <>
       <StatusBar barStyle="dark-content" />
@@ -39,32 +71,9 @@ const App: () => React$Node = () => {
             </View>
           )}
           <View style={styles.body}>
-            <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>Step One</Text>
-              <Text style={styles.sectionDescription}>
-                Edit <Text style={styles.highlight}>App.js</Text> to change this
-                screen and then come back to see your edits.
-              </Text>
-            </View>
-            <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>See Your Changes</Text>
-              <Text style={styles.sectionDescription}>
-                <ReloadInstructions />
-              </Text>
-            </View>
-            <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>Debug</Text>
-              <Text style={styles.sectionDescription}>
-                <DebugInstructions />
-              </Text>
-            </View>
-            <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>Learn More</Text>
-              <Text style={styles.sectionDescription}>
-                Read the docs to discover what to do next:
-              </Text>
-            </View>
-            <LearnMoreLinks />
+            <TouchableOpacity onPress={processImage}>
+              <Text>Comprobar imagen</Text>
+            </TouchableOpacity>
           </View>
         </ScrollView>
       </SafeAreaView>
