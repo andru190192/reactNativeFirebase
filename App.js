@@ -64,7 +64,7 @@ const App = () => {
 
   return (
       <SafeAreaView>
-          <View style={styles.body}>
+          <View>
             <Login
                 onHandlerLogout={onHandlerLogout}
             />
