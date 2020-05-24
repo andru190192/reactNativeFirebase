@@ -2,10 +2,8 @@ import React, { useEffect } from 'react';
 import {
   SafeAreaView,
   StyleSheet,
-  ScrollView,
   View,
   Text,
-  StatusBar,
   TouchableOpacity
 } from 'react-native';
 import auth from '@react-native-firebase/auth';
@@ -65,11 +63,7 @@ const App = () => {
   }
 
   return (
-    <>
-      <StatusBar barStyle="dark-content" />
       <SafeAreaView>
-        <ScrollView
-          contentInsetAdjustmentBehavior="automatic">
           <View style={styles.body}>
             <Login
                 onHandlerLogout={onHandlerLogout}
@@ -78,46 +72,9 @@ const App = () => {
               <Text>Comprobar imagen</Text>
             </TouchableOpacity>
           </View>
-        </ScrollView>
       </SafeAreaView>
-    </>
   );
 };
 
-const styles = StyleSheet.create({
-  engine: {
-    position: 'absolute',
-    right: 0,
-  },
-  body: {
-    backgroundColor: 'white',
-  },
-  sectionContainer: {
-    marginTop: 32,
-    paddingHorizontal: 24,
-  },
-  sectionTitle: {
-    fontSize: 24,
-    fontWeight: '600',
-    color: 'black',
-  },
-  sectionDescription: {
-    marginTop: 8,
-    fontSize: 18,
-    fontWeight: '400',
-    color: 'black',
-  },
-  highlight: {
-    fontWeight: '700',
-  },
-  footer: {
-    color: 'black',
-    fontSize: 12,
-    fontWeight: '600',
-    padding: 4,
-    paddingRight: 12,
-    textAlign: 'right',
-  },
-});
 
 export default App;
