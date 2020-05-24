@@ -1,12 +1,4 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow strict-local
- */
-
-import React from 'react';
+import React, { useEffect } from 'react';
 import {
   SafeAreaView,
   StyleSheet,
@@ -14,17 +6,28 @@ import {
   View,
   Text,
   StatusBar,
-    TouchableOpacity
+  TouchableOpacity
 } from 'react-native';
-
-import {
-  Header,
-  Colors,
-} from 'react-native/Libraries/NewAppScreen';
+import auth from '@react-native-firebase/auth';
+import Login from './src/screens/login';
 
 const VISION_API_KEY = 'AIzaSyC1gdfBWhu1K4etrIQT6C1f-Iz9JBElR-Q';
 
 const App = () => {
+
+  useEffect(() => {
+    auth()
+        .signInWithEmailAndPassword('caguachisaca@gmail.com', '123456')
+        .then(() => {
+          console.log('User signed in anonymously');
+        })
+        .catch(error => {
+          if (error.code === 'auth/operation-not-allowed') {
+            console.log('Enable anonymous in your firebase console.');
+          }
+          console.error(error);
+        });
+  }, [])
 
   async function processImage() {
     let body = JSON.stringify({
@@ -57,20 +60,20 @@ const App = () => {
     )
   }
 
+  function onHandlerLogout() {
+    auth().signOut().then(() => console.log('User signed out!'));
+  }
+
   return (
     <>
       <StatusBar barStyle="dark-content" />
       <SafeAreaView>
         <ScrollView
-          contentInsetAdjustmentBehavior="automatic"
-          style={styles.scrollView}>
-          <Header />
-          {global.HermesInternal == null ? null : (
-            <View style={styles.engine}>
-              <Text style={styles.footer}>Engine: Hermes</Text>
-            </View>
-          )}
+          contentInsetAdjustmentBehavior="automatic">
           <View style={styles.body}>
+            <Login
+                onHandlerLogout={onHandlerLogout}
+            />
             <TouchableOpacity onPress={processImage}>
               <Text>Comprobar imagen</Text>
             </TouchableOpacity>
@@ -82,15 +85,12 @@ const App = () => {
 };
 
 const styles = StyleSheet.create({
-  scrollView: {
-    backgroundColor: Colors.lighter,
-  },
   engine: {
     position: 'absolute',
     right: 0,
   },
   body: {
-    backgroundColor: Colors.white,
+    backgroundColor: 'white',
   },
   sectionContainer: {
     marginTop: 32,
@@ -99,19 +99,19 @@ const styles = StyleSheet.create({
   sectionTitle: {
     fontSize: 24,
     fontWeight: '600',
-    color: Colors.black,
+    color: 'black',
   },
   sectionDescription: {
     marginTop: 8,
     fontSize: 18,
     fontWeight: '400',
-    color: Colors.dark,
+    color: 'black',
   },
   highlight: {
     fontWeight: '700',
   },
   footer: {
-    color: Colors.dark,
+    color: 'black',
     fontSize: 12,
     fontWeight: '600',
     padding: 4,
